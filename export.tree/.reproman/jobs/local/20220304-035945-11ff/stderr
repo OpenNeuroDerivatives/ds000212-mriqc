@@ -1,0 +1,11 @@
+WARNING (03/05/22 22:51:59): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120757.hostlist.XDktnPoM to get hosts
+starting job on c103-002
+starting job on c143-044
+starting job on c143-064
+starting job on c143-073
+starting job on c143-084
+starting job on c143-093
+starting job on c143-121
+starting job on c143-131
+Terminated
